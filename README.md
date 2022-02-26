@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shivaji1998
-- 👀 I’m interested in java programming and backend development 
-- 🌱 I’m currently learning ... Core Java
-- 💞️ I’m looking to collaborate on API development for web application
+- 👀 I’m interested in java programming and app development 
+- 🌱 I’m currently learning ... Core Java,Android
 - 📫 How to reach me : add me on snap: ahir2021185
 
 <!---
