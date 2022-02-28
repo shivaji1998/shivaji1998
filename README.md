@@ -10,7 +10,7 @@ Languages and tools I came across:
 [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
 [![image](https://img.icons8.com/color/48/000000/intellij-idea.png)](https://www.jetbrains.com/idea/)
 [![image](https://img.icons8.com/color/48/000000/visual-studio--v2.png)](https://code.visualstudio.com/)
-[![image](img src="https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![image](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
 [![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/)
 
