@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivaji1998
 - 👀 I’m interested in java programming and app development 
 - 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
-- 📫 How to reach me : add me on snap: follow me on Twitter
+- 📫 How to reach me : follow me on Twitter
 - 
 Languages and tools I came across:
 
