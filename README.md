@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @shivaji1998
 - 👀 I’m interested in java programming and app development 
 - 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
-- 📫 How to reach me : ![image](https://user-images.githubusercontent.com/96246929/156621507-958f1606-70b1-4ab0-8c28-ccdc6301a28b.png)](https://www.facebook.com/profile.php?id=100075145232089)
+- 📫 How to reach me : 
+- ![image](https://user-images.githubusercontent.com/96246929/156621970-a3ad2455-7836-4078-b6c8-315b4e38e275.png)(https://www.facebook.com/profile.php?id=100075145232089)
+
 
 - 
 Languages and tools I came across:
