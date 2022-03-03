@@ -12,8 +12,7 @@ Languages and tools I came across:
 [![image](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
 [![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/)
-![image](https://user-images.githubusercontent.com/96246929/156624615-1a1f93bd-67cb-4048-b246-a59a98bd40eb.png)
-
+      [![image](https://img.icons8.com/color/48/000000/nodejs.png)
 
 
 
