@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivaji1998
-- 👀 I’m interested in java programming and app development 
+- 👀 I’m interested in APIs, ML etc
 - 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
 
 - 
