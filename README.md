@@ -2,7 +2,9 @@
 - 👀 I’m interested in various APIs, ML, JS, AI etc
 - 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
 
-Connect with me: 
+Connect with me: [![image](https://img.icons8.com/fluency/48/000000/instagram-new.png)
+                  @_ahir24_
+
 
 Languages and tools I came across:
 
@@ -13,7 +15,6 @@ Languages and tools I came across:
 [![image](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
 [![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/)
-[![image](https://img.icons8.com/fluency/48/000000/instagram-new.png)(https://www.instagram.com/_ahir24_/)
 
 
 
