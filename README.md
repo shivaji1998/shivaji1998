@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI,cloud etc
 - 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
 
-Connect with me:  [\_ahir25\_](https://www.instagram.com/_ahir25_/)
+Connect with me:  [\_ahir.dir\_](https://www.instagram.com/_ahir.dir_/)
              
 
 
