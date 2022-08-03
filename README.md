@@ -15,8 +15,7 @@ Languages and tools I came across:
 [![image](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![image](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
 [![image](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/)
-[![image](https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png)](https://www.php.net)
-
+[![image](https://img.icons8.com/ios-filled/50/000000/php-logo.png)](https://www.php.net/)
 
 
 <!---
