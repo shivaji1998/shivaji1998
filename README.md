@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivaji1998
 - 👀 I’m interested in AI,cloud etc
-- 🌱 I’m currently working on : [![image](https://img.icons8.com/color/48/000000/android-studio--v3.png)](https://developer.android.com/studio?gclsrc=ds&gclsrc=ds)
+- 🌱 I’m currently working on : [![image](https://img.icons8.com/offices/100/000000/php-logo.png)
 
 Connect with me:  [\_ahir.dir\_](https://www.instagram.com/_ahir.dir_/)
              
